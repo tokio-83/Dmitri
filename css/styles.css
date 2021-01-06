@@ -1,0 +1,14 @@
+body{background-color:#968c83;}
+hr{
+border-style: none;
+border-top-style: dotted;
+border-color: #f8f1f1;
+border-width: 5px;
+width: 5%; }
+h1{color:#0a043c}
+h3{color:#0a043c}
+h1{text-decoration: underline;}
+h3{text-decoration: underline;}
+th{text-shadow: 1px 1px ;}
+h1{font-family: cursive;}
+h3{font-family: cursive;}
